@@ -14,7 +14,7 @@
 
 🐱 [Leticia Li](https://leticiali.notion.site/Leticia-s-Physical-Computing-Blog-2fbde44e9e2440749a5f7bc02f63623d)
 
-🐱 Minji Yoouk
+🐱 [Minji Yoouk](https://miniature-gem-fab.notion.site/Physical-Computing-38d2a02499ba44bc9ee24b347360da66?pvs=4)
 
 🤣 [Qingqing Zhou](https://incredible-gastonia-7a1.notion.site/Qingqing-s-Blog-Pysical-Computing-f9851f2751cc4e78a0f7bf40f4ef85f0?pvs=4)
 
