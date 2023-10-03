@@ -10,7 +10,7 @@ You can also follow this guide:
 
 **Arduino**
 
-Bill of materials: Redboard x1, Breadboard x1, Pushbutton x1, Potentiometer (the small blue thing) x1, 10k resistor x1, jumper wires a couple
+Bill of materials: Arduino board x1, Breadboard x1, Pushbutton x1, Potentiometer (the small blue thing) x1, 10k resistor x1, jumper wires a couple
 
 ![schematic](schematic-bb.png)
 
