@@ -1,6 +1,6 @@
 ### ♡ ⁺˚⋆°✩₊⋆｡ ‧̥·̊ Fall 2023 Students ·̊‧̥ ｡⋆₊✩˚⋆⁺ ♡
 
-🌱 Chae Ri Bong
+🌱 [Chae Ri Bong](https://adhesive-saxophone-1f1.notion.site/Chae-Ri-s-blog-8755a60913ae4104b26574d124ddb8c4)
 
 👻 [Hannah Kim](https://nhkmforschool.notion.site/nhkmforschool/Hannah-s-Physical-Computing-Blog-ac14850725fd4e98bb66ec5695d592d2)
 
@@ -36,6 +36,6 @@
 
 💖 [Yujeong Bae](https://spiral-keyboard-a10.notion.site/Yujeong-s-Physical-Computing-fa7c510746a041b6ba30159b878d460a?pvs=4)
 
-🍄 [Yuri Shin](https://medium.com/@houseyuri)
+🍄 [Yuri Shin](https://plastic-puck-e38.notion.site/Yuri-s-Blog-b87171a17b214ada973002f5ca533630)
 
-🌱 Zi Ai Guo
+🌱 [Zi Ai Guo](https://eight-biplane-45e.notion.site/Sensor-Project-Research-d57a06a8a2cd4498a48f81ca26e4d070?pvs=4)
