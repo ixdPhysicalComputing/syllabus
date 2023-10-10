@@ -38,4 +38,4 @@
 
 🍄 [Yuri Shin](https://plastic-puck-e38.notion.site/Yuri-s-Blog-b87171a17b214ada973002f5ca533630)
 
-🌱 [Zi Ai Guo](https://eight-biplane-45e.notion.site/Sensor-Project-Research-d57a06a8a2cd4498a48f81ca26e4d070?pvs=4)
+🌱 [Zi Ai Guo](https://eight-biplane-45e.notion.site/Ziai-Guo-21da569095154a65838549aee019b3c4)
