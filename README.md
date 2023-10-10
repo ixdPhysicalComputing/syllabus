@@ -12,7 +12,7 @@ Tuesdays 02:00 PM - 04:50 PM, Visible Futures Lab (7th Floor)
 
 ## Instructors
 
-Viola He ([website](https://violand.xyz)): [lhe21@sva.edu](mailto:lhe21@sva.edu) / Office Hours 💼 Mon & Wed 6-8 PM
+Viola He ([website](https://violand.xyz)): [lhe21@sva.edu](mailto:lhe21@sva.edu) / Office Hours 💼 Mon 3-6 PM, schedule [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2PI-C-OXmBKmfU7nEsRUVNNbi5ZSIYSffEe23QCybvxaoRwbYRYcNTlsEyy1ebYM7FkFCRyYDy)
 
 Daniel Ryan Johnston ([website](https://danielryanjohnston.com/fb90db9579e544a29c17db47927a1ed8)): [djohnston2@sva.edu](mailto:djohnston2@sva.edu) / Office Hours 💼 Tue 5-7 PM, schedule [here](https://calendar.app.google/42C4A8LnMEVW6shV7)
 
