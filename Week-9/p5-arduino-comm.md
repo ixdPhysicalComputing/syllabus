@@ -1,10 +1,10 @@
 ## Project: Serial Communication Application!
 
-Collaborating in groups, you will make one demonstration of communicating between Arduino and p5.js (or Processing). You have two options:
+First solo project! You will make one creative demonstration of communicating between Arduino and p5.js (or Processing / TouchDesigner / Other serial-enabled software). You have two options:
 
-Option 1 - Arduino to p5.js, an application that uses 3 inputs to emulate mouse (mouseX, mouseY, clicking) behaviors.
+Option 1 - Arduino to p5.js, an application that uses 3 or more inputs to emulate mouse (mouseX, mouseY, clicking) behaviors.
 
-Option 2 - p5.js to Arduino, using mouseX, mouseY or anything else to control something (light, buzzer, motor?). Reference to the Optional [lab](p5-serial-out.html) this week for an example.
+Option 2 - p5.js to Arduino, using mouseX, mouseY or anything else to control something physical (light, buzzer, motor?). Reference to the Optional [lab](p5-serial-out.html) this week for an example.
 
 It can - and should! - be simple, but your piece should demonstrate a good (or funny) reason for existing, e.g. it does something with its physicality that could not be done well with just the screen, or vice versa.
 
