@@ -147,21 +147,19 @@ Midterm projects development: we'll come around and help each group in case you 
 #### Assignments:
 
 - Post Midterm Documentation
-- Review in-class Handshaking lab
-- Lab (optional): [p5 Serial Out](Week-9/p5-serial-out.html)
 ...
 
-### ✨ Week 10: Subject to Change
+### ✨ Week 10: Advanced Communication
 
-- Homework discussion!
-- Reinforcement of unclear concepts
-- Advanced Topics
+- Advanced Topics for inspiration
+- How to approach a project!
 - Serial Communication Lab III: Handshaking, interfacing with sensors of your choice
 
 #### Assignments (due 11/16):
 
 - Review in-class lab
-- Project:
+- Lab: [p5 Serial Out](Week-9/p5-serial-out.html)
+- Project: Mouse emulation
 
 #### Read and Watch:
 

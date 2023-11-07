@@ -1,4 +1,4 @@
-## Optional Lab: p5.js Serial Out to Arduino
+## Lab: p5.js Serial Out to Arduino
 
 We've demonstrated in class how you're able to establish Duplex (two-way) communication with Arduino and p5.js by handshaking (review it on the Week 9 lecture [slide](https://docs.google.com/presentation/d/1n_S3ss0V8yoHElHRGH3fwzL3Hb48LbnF2S3iw4Vmg_E/edit#slide=id.g17dc17132de_0_82)), where you used the `serial.write()` fuction in p5.js to send out bytes of information, and `Serial.read()` in Arduino to receive them. In this lab, you'll learn to send a byte from p5.js to Arduino, and use it to change the brightness of an LED.
 
